@@ -1,0 +1,17 @@
+{
+  "name": "imageeditor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neto Domingos",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.23.0"
+  },
+  "devDependencies": {
+    "compress-images": "^1.5.8"
+  }
+}
