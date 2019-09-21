@@ -4,7 +4,7 @@ App que comprime e redimenciona imagens.
 
 # Do que preciso?
 
-É necessário o NPM + NODE pra baixar as dependencias.
+É necessário o NPM + NODE pra baixar as dependências.
 
 # Instalação das dependencias
 
