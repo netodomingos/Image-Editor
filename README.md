@@ -9,11 +9,6 @@ App que comprime e redimenciona imagens.
 # Instalação das dependencias
 
 Dependencias utilizadas são **Sharp** para redimencionamento de Imagem e o **Image-compress** para compressão.
-
-Sharp: https://sharp.pixelplumbing.com/en/stable/
-
-**npm install sharp**
-
-Image-Compress: https://www.npmjs.com/package/compress-images
-
-**npm install compress-images --save-dev**
+ ```
+ npm i 
+```
